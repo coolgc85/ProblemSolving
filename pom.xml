@@ -12,6 +12,7 @@
         <module>BalancedString</module>
         <module>CompareTriplets</module>
         <module>NumberInArray</module>
+        <module>Lamda</module>
     </modules>
 
     <dependencies>
