@@ -139,3 +139,9 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij
+.idea/checkstyle-idea.xml
+.idea/checkstyleidea-libs/readme.txt
+.idea/compiler.xml
+.idea/compiler.xml
+.idea/compiler.xml
+.idea/sonarlint/issuestore/index.pb
