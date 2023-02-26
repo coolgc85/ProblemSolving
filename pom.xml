@@ -13,6 +13,7 @@
         <module>CompareTriplets</module>
         <module>NumberInArray</module>
         <module>Lamda</module>
+        <module>TwoSum</module>
     </modules>
 
     <dependencies>
