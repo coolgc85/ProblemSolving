@@ -1,3 +1,25 @@
 
 G
 CompareTriplets/pom.xml,5\1\519b7d66aabd514c9227b468712517b07a69a260
+e
+5CompareTriplets/src/main/java/io/coolgc/Triplets.java,d\6\d6bd57c46d8dd1e3a1361db1c7236aa5b4e5e2d7
+F
+BalancedString/pom.xml,b\7\b71f9cdced61ec97c3f047e23dfd67b0bc4ba8b7
+k
+;BalancedString/src/test/java/coolgc/BalancedStringTest.java,9\e\9e063b15efab651d3c9d8eb045d78da2617fbac5
+i
+9CompareTriplets/src/test/java/io/coolgc/TripletsTest.java,2\5\25c6207ddf94a3ac9fddc9c6221f6718e966aa7f
+E
+NumberInArray/pom.xml,c\f\cf43cc0f064aa4db50d20ad5cbff28acaffd6b94
+j
+:BalancedString/src/main/java/io/coolgc/BalancedString.java,b\4\b4d300d6719bee1109d0eeae03fde716b6cfe722
+u
+ELamda/src/test/java/coolgc/io/lambda/coolgc/io/lamda/MyRegexTest.java,3\1\3137377f4f4bde074e54e85a9e065720405d2090
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8NumberInArray/src/main/java/io/coolgc/NumberInArray.java,7\2\7221ea5908a07a0127ff41c495fb20d1075a7b9a
+l
+<NumberInArray/src/test/java/io/coolgc/NumberInArrayTest.java,8\9\899568babefdeccf4ef32fb9c6556d76068d2e62
+q
+ALamda/src/main/java/coolgc/io/lambda/coolgc/io/lamda/MyRegex.java,5\6\562aba17bbebc5ad95e261fe8cba71e538dfb6fc

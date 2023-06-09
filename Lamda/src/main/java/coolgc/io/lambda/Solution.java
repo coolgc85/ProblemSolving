@@ -4,9 +4,6 @@ import java.math.BigInteger;
 import java.util.*;
 import java.util.function.IntPredicate;
 
-
-
-
     public class Solution {
 
         interface PerformOperation {
